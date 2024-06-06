@@ -14,14 +14,11 @@ OBJECTIVES
 • Support for multiple languages, providing users with the flexibility to read content in their preferred language.
 • Utilization of IoT Support for multiple users on a single device, making it suitable for shared environments such as classrooms or community centres.
 
-
 Hardware setup for smart book reader
 ![image](https://github.com/ChandanaCS13/Smart-Book-Reader/assets/130172699/55d095b8-4f45-46ac-ba97-423c293b0a19)
 
-
 The generated output for the uploaded image 
 ![image](https://github.com/ChandanaCS13/Smart-Book-Reader/assets/130172699/49a0276f-a5be-4480-b1d4-df21203c3375)
-
 
 Image captured in real time and output is generated
 ![image](https://github.com/ChandanaCS13/Smart-Book-Reader/assets/130172699/8f285e2b-7a62-41ea-a9ba-8e063b16ca3b)
@@ -30,6 +27,7 @@ Image captured in real time and output is generated
 
 Future Scope
 •	The proposed system can be further improved to efficiently work with multiple languages. 
+
 •	Advancements in hardware equipment’s are expected to significantly increase the accuracy of smart book readers in real-time, enhancing their usability for visually impaired individuals.
 
 
