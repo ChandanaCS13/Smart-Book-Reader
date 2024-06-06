@@ -6,13 +6,21 @@ The Braille system consists of cells with six raised dots, and each raised dot h
 The main problem addressed by this project is the difficulty faced by blind individuals or those with low vision when it comes to reading books. Braille is the language used to read books by visual impairment people by touch. This difficulty is overcome by “smart book reader for Visual Impairment People using IoT Device and Deep Learning’’ where the visual impaired people can easily be understood by audio.
 
 OBJECTIVES
+
 • Accessibility and User-Friendly Design.
+
 • Text Recognition Accuracy.
+
 • Real-Time Text-to-Speech Conversion.
+
 • Environmental Adaptability.
+
 • Continuous Learning and Improvement.
+
 • Support for multiple languages, providing users with the flexibility to read content in their preferred language.
+
 • Utilization of IoT Support for multiple users on a single device, making it suitable for shared environments such as classrooms or community centres.
+
 
 Hardware setup for smart book reader
 
